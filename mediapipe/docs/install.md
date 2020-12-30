@@ -1,15 +1,10 @@
-## Installing MediaPipe
+## 安装 MediaPipe
 
-Note: To interoperate with OpenCV, OpenCV 3.x and above are preferred. OpenCV
-2.x currently works but interoperability support may be deprecated in the
-future.
+注意: 为了与OpenCV互操作，首选OpenCV 3.x及更高版本。 OpenCV 2.x当前可以使用，但是将来可能不推荐使用互操作性。
 
-Note: If you plan to use TensorFlow calculators and example apps, there is a
-known issue with gcc and g++ version 6.3 and 7.3. Please use other versions.
+注意：如果您打算使用TensorFlow计算器和示例应用程序，则gcc和g ++版本6.3和7.3存在已知问题。 请使用其他版本。
 
-Note: To make Mediapipe work with TensorFlow, please set Python 3.7 as the
-default Python version and install the Python "six" library by running `pip3
-install --user six`.
+注意：要使Mediapipe与TensorFlow一起使用，请将Python 3.7设置为默认Python版本，并通过运行`pip3 install --user six`安装six库。
 
 Choose your operating system:
 
