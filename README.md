@@ -1,13 +1,13 @@
 ![MediaPipe](mediapipe/docs/images/mediapipe_small.png?raw=true "MediaPipe logo")
 =======================================================================
 
-[MediaPipe](http://mediapipe.dev) is a framework for building multimodal (eg. video, audio, any time series data) applied ML pipelines. With MediaPipe, a perception pipeline can be built as a graph of modular components, including, for instance, inference models (e.g., TensorFlow, TFLite) and media processing functions.
+[MediaPipe](http://mediapipe.dev)是一个应用了ML pipelines的框架，可处理多模态（例如，视频，音频，任何时间序列数据）。借助MediaPipe，可以将感知管道构建为模块化组件的图形，包括例如推理模型（例如TensorFlow，TFLite）和媒体处理功能。
 
 ![Real-time Face Detection](mediapipe/docs/images/realtime_face_detection.gif)
 
-> "<em>MediaPipe has made it extremely easy to build our 3D person pose reconstruction demo app, facilitating accelerated neural network inference on device and synchronization of our result visualization with the video capture stream. Highly recommended!</em>" - George Papandreou, CTO, [Ariel AI](https://arielai.com)
+> "<em>MediaPipe使构建3D人体姿势重建演示应用程序变得非常容易，从而促进了设备上的加速神经网络推理以及结果可视化与视频捕获流的同步。 强烈推荐!</em>" - George Papandreou, CTO, [Ariel AI](https://arielai.com)
 
-## ML Solutions in MediaPipe
+## MediaPipe 中的 ML 解决方案
 
 * [Hand Tracking](mediapipe/docs/hand_tracking_mobile_gpu.md)
 * [Multi-hand Tracking](mediapipe/docs/multi_hand_tracking_mobile_gpu.md)
@@ -23,24 +23,24 @@
 ![hair_segmentation](mediapipe/docs/images/mobile/hair_segmentation_android_gpu_small.gif)
 ![object_tracking](mediapipe/docs/images/mobile/object_tracking_android_gpu_small.gif)
 
-## Installation
-Follow these [instructions](mediapipe/docs/install.md).
+## 安装
+看此链接 [instructions](mediapipe/docs/install.md).
 
-## Getting started
-See mobile, desktop and Google Coral [examples](mediapipe/docs/examples.md).
+## 入门指南
+关注 mobile, desktop and Google Coral [examples](mediapipe/docs/examples.md).
 
-## Documentation
+## 文献记录
 [MediaPipe Read-the-Docs](https://mediapipe.readthedocs.io/) or [docs.mediapipe.dev](https://docs.mediapipe.dev)
 
-Check out the [Examples page](https://mediapipe.readthedocs.io/en/latest/examples.html) for tutorials on how to use MediaPipe. [Concepts page](https://mediapipe.readthedocs.io/en/latest/concepts.html) for basic definitions
+浏览 [Examples page](https://mediapipe.readthedocs.io/en/latest/examples.html) 获取关于如何使用MediaPipe的教程。 [Concepts page](https://mediapipe.readthedocs.io/en/latest/concepts.html) for basic definitions
 
-## Visualizing MediaPipe graphs
+## 可视化MediaPipe图
 A web-based visualizer is hosted on [viz.mediapipe.dev](https://viz.mediapipe.dev/). Please also see instructions [here](mediapipe/docs/visualizer.md).
 
-## Community forum
-*  [Discuss](https://groups.google.com/forum/#!forum/mediapipe) - General community discussion around MediaPipe
+## 社区论坛
+*  [Discuss](https://groups.google.com/forum/#!forum/mediapipe) - 关于MediaPipe的一般性社区讨论
 
-## Publications
+## 出版物
 * [On-Device, Real-Time Hand Tracking with MediaPipe](https://ai.googleblog.com/2019/08/on-device-real-time-hand-tracking-with.html)
 * [MediaPipe: A Framework for Building Perception Pipelines](https://arxiv.org/abs/1906.08172)
 
